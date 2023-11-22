@@ -1,0 +1,16 @@
+# Core Web & UI (December 2023 Release)
+streamlit==1.29.0
+
+# LangChain & OpenAI Integration (December 2023 Releases)
+langchain==0.0.352
+langchain-core==0.1.3
+langchain-community==0.0.6
+langchain-openai==0.0.2
+openai==1.5.0
+
+# Azure Platform Ecosystem & Identity (November/December 2023 Release)
+azure-identity==1.15.0
+
+# Environment & Utilities (2023 Releases)
+python-dotenv==1.0.0
+pydantic==2.5.2
